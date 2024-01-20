@@ -6,7 +6,7 @@
 ## Install (Server)
 1. Clone the repository (`git clone https://github.com/GradientTim/labymod-publicfps-server` or download the zip file)
 2. Install [Bun](https://bun.sh) to start the server
-3. Generate a secure `authToken` in the `index.ts´ file (You can use the tool from [LastPass](https://www.lastpass.com/features/password-generator#generatorTool))
+3. Generate a secure `authToken` in the `index.ts` file (You can use the tool from [LastPass](https://www.lastpass.com/features/password-generator#generatorTool))
 4. Run `bun index.ts` in the directory where you have cloned the repository
 
 > If the `bun.lockb` is missing (for whatever reason), execute `bun i` before the `bun index.ts` command
