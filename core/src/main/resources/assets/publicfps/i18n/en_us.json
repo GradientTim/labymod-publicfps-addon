@@ -1,0 +1,19 @@
+{
+  "publicfps": {
+    "settings": {
+      "name": "PublicFPS",
+      "enabled": {
+        "name": "Enabled"
+      },
+      "url": {
+        "name": "URL"
+      },
+      "token": {
+        "name": "Secret Token"
+      },
+      "interval": {
+        "name": "Interval (seconds)"
+      }
+    }
+  }
+}
