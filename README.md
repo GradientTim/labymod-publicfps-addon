@@ -4,7 +4,7 @@
 > This addon is only available for LabyMod 4
 
 ## Install (Server)
-1. Clone the repository (`git clone https://github.com/GradientTim/public-fps-server` or download the zip file)
+1. Clone the repository (`git clone https://github.com/GradientTim/labymod-publicfps-server` or download the zip file)
 2. Install [Bun](https://bun.sh) to start the server
 3. Generate a secure `authToken` in the `index.ts´ file (You can use the tool from [LastPass](https://www.lastpass.com/features/password-generator#generatorTool))
 4. Run `bun index.ts` in the directory where you have cloned the repository
@@ -20,7 +20,8 @@
 4. Make sure to enable the addon and configure the `URL` and `Secret Token` (Secret Token = AuthToken)
 5. You're done. Open the website `http://localhost:9412` and you will see a number - that's your in-game FPS :-)
 
-### Why not uploading to FlintMC?The addon serves more as a fun addon and should not appear publicly in the addon list
+### Why not uploading to FlintMC?
+The addon serves more as a fun addon and should not appear publicly in the addon list
 
 ### Local server hosting?
 It is possible to host the server on your computer if you use a tunnel service such as [ngrok](https://ngrok.com/)
